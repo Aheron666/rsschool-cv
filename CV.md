@@ -1,4 +1,4 @@
-![Profile Foto](/rsschool-cv/img/565940248.jpg)
+![Profile Foto](./img/565940248.jpg)
 
 # Suhov Oleg
 
