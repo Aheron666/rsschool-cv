@@ -172,3 +172,28 @@ timer.timerPause();
 timer.setBreak();
 timer.resetButton();
 ```
+
+## Experience
+
+I have practical experience in doing homework and projects in courses, I also prepared several projects for my portfolio:
+
+- [Pomodoro timer JS](https://github.com/Aheron666/pomodoro-timer-js.git).
+- [Landing page JS](https://github.com/Aheron666/Landing-page.git).
+- [Login pages JS](https://github.com/Aheron666/Login-page.git).
+- [Canvas & Cookie JS](https://github.com/Aheron666/Canvas-cookie-elements.git).
+- [Timer JS](https://github.com/Aheron666/Timer-JS.git).
+
+## Education
+
+- #### Gubkin University of Oil & Gas
+- #### ITStep Accedemy
+- #### ItGid ReactJS
+
+## Languages 
+
+- #### English - B1
+
+
+
+
+
